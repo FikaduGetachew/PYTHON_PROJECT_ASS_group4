@@ -45,4 +45,4 @@ This program helps you manage student information easily. Think of it as your di
 - 2. **ABEL SINTAYEHU        #ID 1405077**    
 - 3. **HERMELA BOGALE        #ID 1405090**
 - 4. **MIKIYAS SIME          #ID 1402570**
-- 5. **yekuYikuraw Lale      #ID 1403246**
+- 5. **Yekuraw Lale      #ID 1403246**
